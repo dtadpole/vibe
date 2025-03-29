@@ -1,0 +1,5 @@
+Do not generate all the code at once, generate one function at a time, generate multiple test cases to verify correctness, use emoji for correctness, run all test cases for each function and verifiy correctness until code is correct, before starting work on the next function.
+
+When generating new code, do not change existing code paths that are not part of the dependencies.
+
+When fixing issues, make minimum code changes wherever possible.
